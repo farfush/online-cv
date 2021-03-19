@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: sergiy@chernov.nl
     phone: +31 64 470 3220
-    website: info.chernov.nl/online-cv #do not add http://
+    website: cv.chernov.nl/online-cv #do not add http://
     linkedin: sergiy-chernov-03735430
     github: farfush
     telegram: farfush # add your nickname without '@' sign
@@ -107,7 +107,10 @@ experiences:
       time: 10.2007 - 09.2009
       company: Media Group Gorod
       details: |
-        All kind of stuff
+        Implementing desktop application that combines big modules such as financial, designer & operator. 
+        The key feature is input advertisements by an operator and export them in XML format to be imported later into Adobe Illustrator. 
+        Technologies used: Delphi 7, Delphi 2009, FireBird, Rx, RaveReports, FastReports
+
 projects:
     title: Projects
     intro: >
