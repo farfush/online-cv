@@ -63,43 +63,51 @@ education:
       details: |
         Thesis: Building technology case-system program generator for numerical control system
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Software Engineer | Tech Lead
+      time: 01.2021 - Present
+      company: MYLAPS Sports Timing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Freelance
+    - role: Founder | Owner
+      time: 01.2021 - Present
+      company: Grinberg IT Solutions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Self-employed
+    - role: Portfolio Engineering Lead
+      time: 09.2020 - 12.2020
+      company: SITA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        All kind of stuff
+    - role: Technical Lead
+      time: 09.2019 - 12.2020
+      company: SITA
+      details: |
+        All kind of stuff and even more
+    - role: Senior .Net Developer
+      time: 04.2017 - 09.2019
+      company: SITA
+      details: |
+        All kind of stuff
+    - role: Senior .Net Developer
+      time: 09.2014 - 042017
+      company: eVision Industry Software
+      details: |
+        All kind of stuff in .Net
+    - role: Senior .Net Developer
+      time: 11.2010 - 09.2014
+      company: M.C.Dean
+      details: |
+        All kind of stuff
+    - role: .Net Developer
+      time: 09.2009 - 11.2010
+      company: ABP
+      details: |
+        All kind of stuff
+    - role: Delphi | VBA Developer
+      time: 10.2007 - 09.2009
+      company: Media Group Gorod
+      details: |
+        All kind of stuff
 projects:
     title: Projects
     intro: >
