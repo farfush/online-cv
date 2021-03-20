@@ -68,31 +68,41 @@ experiences:
       company: MYLAPS Sports Timing
       details: |
         Freelance
+
     - role: Founder | Owner
       time: 01.2021 - Present
       company: Grinberg IT Solutions
       details: |
-        Self-employed
+        Providing technical leading as a service. 
+        - Application refactoring, renovation
+        - Implementing automation e2e tests using Cypress, SpecFlow, etc
+        - Setting up CI\CD (for on-premise and cloud based environments)
+        - Introducing development practices, such as Git(Hub)Flow, unit testing, test coverage, static analysis (SonarQube, NDepend)
+
     - role: Portfolio Engineering Lead
       time: 09.2020 - 12.2020
       company: SITA
       details: |
-        All kind of stuff
+        Aligning development best practices between different teams, working with different tech stacks. 
+        Introducing and unifying ways of working with git, CI\CD (Azure DevOps)
+        Making containerization of the applications a standard.
+        Helping other teams move their app from on-premise to Azure cloud using AKS, CosmosDB, AppInsights, ExpressRoute, etc.
+        Introducing automation testing using Cypress for frontend and SpecFlow for backend.
+
     - role: Technical Lead
       time: 09.2019 - 12.2020
       company: SITA
       details: |
         Leading and driving the tech side of the Self BagDrop application. Architecting all parts of the application including CI/CD.
-        - Microservices as an architecture
+        - <b>Microservices</b> as an architecture
         - <b>Docker</b> as application container
-        - Kubernentes as archistration tool
-        - .Net Core 2.x/3.x as main development platform
-        - oAuth2 as the security protocol
-        - OpenAPI spec as API documentation
-        - Azure as hosting provider (AKS, Apps, CosmosDB, IoT Hub, AppInsights, ...)
-        - TDD, DDD, SOLID as main development principles
-        - CI/CD from day 1
-
+        - <b>Kubernentes</b> as archistration tool
+        - <b>.Net Core 2.x/3.x</b> as main development platform
+        - <b>oAuth2</b> as the security protocol
+        - <b>OpenAPI</b> spec as API documentation
+        - <b>Azure</b> as hosting provider (AKS, Apps, CosmosDB, IoT Hub, AppInsights, ExpressRoute...)
+        - <b>TDD, DDD, SOLID</b> as main development principles
+        - <b>CI/CD</b> from day 1
 
         Designing integration model and protocol with 3rd parties (soap and rest services)
 
@@ -105,22 +115,61 @@ experiences:
       time: 04.2017 - 09.2019
       company: SITA
       details: |
-        All kind of stuff
+        Working on the Departure Control System integration layer. Integrating with web services of main DCS providers
+
+        - Amadeus Altea
+        - Navitaire
+        - Sita
+        - Saber
     - role: Senior .Net Developer
       time: 09.2014 - 042017
       company: eVision Industry Software
       details: |
-        All kind of stuff in .Net
+        Full stack development of Shift management application for Oil & Gas industry.
+
+        - .Net 4.7 as the main development platform
+        - ReactJs (with RxJs) as a client-side framework
+        - Event Sourcing and CQRS as architecture principle
+        - TDD, DDD, SOLID as development principles
+
+
+        Main customers - <b>Shell</b>, <b>British Petroleum</b>, <b>Exxon</b>, <b>Pfizer</b>, <b>Total</b>
+
     - role: Senior .Net Developer
       time: 11.2010 - 09.2014
       company: M.C.Dean
       details: |
-        All kind of stuff
+        Full stack development of following applications
+
+        <b><u>Credit Card Integration Application</u></b>
+
+        Web-based SPA for automatic credit card expenses processing. Including automated
+        integration with world known systems such as <b>Visa</b>, <b>MasterCard</b>, and <b>American Express</b>.
+
+        Technologies used: .Net 4.5, Sencha (ExtJs), Entity Framework, AspNet Mvc, MS SQL, AS/400
+
+
+        <b><u>Travel Application</u></b>
+
+        Web-based single page application (SPA) and mobile application for integration with 3rd party travel agencies to automate the creation, approval, and booking of business trips.
+
+        Technologies used: .Net 4.5, Sencha (ExtJs), Entity Framework, PhoneGap, Cordova, WCF, AspNet Mvc, MS SQL
+
+
+        <b><u>Supplier Compliance Application</u></b>
+
+        Desktop application to facilitate contracts department and make paperwork much easier. Migrated later to web-based SPA.
+
+        Technologies used: .Net 4.5, DevExpress, WCF, MS SQL
+
     - role: .Net Developer
       time: 09.2009 - 11.2010
       company: ABP
       details: |
-        All kind of stuff
+        Full stack development of Content management system – web application which is used to build client sites on top of it.
+
+        Technologies used: .Net 3.5, XML, XSLT, jQuery, T-SQL
+
     - role: Delphi | VBA Developer
       time: 10.2007 - 09.2009
       company: Media Group Gorod
@@ -178,13 +227,16 @@ skills:
       - name: MSSQL, MongoDB, CosmosDB, Redis
         level: 92%
 
+      - name: SonarQube, NDepend
+        level: 91%
+
       - name: Azure DevOps, Jenkins, TeamCity
         level: 90%
         
       - name: Nunit, xUnit, etc.
         level: 90%
 
-      - name: Javascript (TypeScript, Angular, ReactJs, ExtJs)
+      - name: Javascript (TypeScript, Angular, ReactJs, ExtJs), Cypress
         level: 80%
 
       - name: Swagger/OpenAPI, AsyncAPI
