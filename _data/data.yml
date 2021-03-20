@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -82,7 +82,25 @@ experiences:
       time: 09.2019 - 12.2020
       company: SITA
       details: |
-        All kind of stuff and even more
+        Leading and driving the tech side of the Self BagDrop application. Architecting all parts of the application including CI/CD.
+        - Microservices as an architecture
+        - <b>Docker</b> as application container
+        - Kubernentes as archistration tool
+        - .Net Core 2.x/3.x as main development platform
+        - oAuth2 as the security protocol
+        - OpenAPI spec as API documentation
+        - Azure as hosting provider (AKS, Apps, CosmosDB, IoT Hub, AppInsights, ...)
+        - TDD, DDD, SOLID as main development principles
+        - CI/CD from day 1
+
+
+        Designing integration model and protocol with 3rd parties (soap and rest services)
+
+        - Amadeus Altea
+        - Navitaire
+        - Sabre
+
+        Airline DCS - American Airline, Ryanair, WizzAir, EasyJet, AirFrance, KLM, Lufthansa, Swiss, Latam
     - role: Senior .Net Developer
       time: 04.2017 - 09.2019
       company: SITA
@@ -151,23 +169,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: .Net (Full framework, Core 2.x, 3.x) & C#
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Docker & Kubernetes
         level: 95%
+      
+      - name: MSSQL, MongoDB, CosmosDB, Redis
+        level: 92%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Azure DevOps, Jenkins, TeamCity
+        level: 90%
+        
+      - name: Nunit, xUnit, etc.
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Javascript (TypeScript, Angular, ReactJs, ExtJs)
+        level: 80%
+
+      - name: Swagger/OpenAPI, AsyncAPI
+        level: 78%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    <i class="fas fa-heart"></i> Open for new opportunities from 01.07.2021
