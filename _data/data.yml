@@ -63,11 +63,19 @@ education:
       details: |
         Thesis: Building technology case-system program generator for numerical control system
 experiences:
-    - role: Senior Software Engineer | Tech Lead
-      time: 01.2021 - Present
+    - role: Senior Software Engineer | Tech Lead - freelance
+      time: 01.2021 - 09.2021
       company: MYLAPS Sports Timing
       details: |
-        Freelance
+        Building Race Control software. Renovating legacy project to support new hardware. Covering most critical parts with unit and automated tests.
+        Reducing tech debt, working with static code analysis tools (Sonar, nDepend, ReSharper).
+        Introducing CI pipeline with unit, accpetance and smote tests verification, static code analysis tool integration.
+        Replacing custom ORM with EntityFramework, introducing logging, DI, DDD
+        - .Net 4.8, .Net 5
+        - WPF, DevExpress controls
+        - gRPC for streaming api
+        - WebSocket, Rx.Net
+        - SpecFlow, NUnit
 
     - role: Founder | Owner
       time: 01.2021 - Present
