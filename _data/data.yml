@@ -69,7 +69,7 @@ experiences:
       details: |
         Building Race Control software. Renovating legacy project to support new hardware. Covering most critical parts with unit and automated tests.
         Reducing tech debt, working with static code analysis tools (Sonar, nDepend, ReSharper).
-        Introducing CI pipeline with unit, accpetance and smote tests verification, static code analysis tool integration.
+        Introducing CI pipeline with unit, accpetance and smoke tests verification, static code analysis tool integration.
         Replacing custom ORM with EntityFramework, introducing logging, DI, DDD
         - .Net 4.8, .Net 5
         - WPF, DevExpress controls
