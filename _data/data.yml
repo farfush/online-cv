@@ -64,10 +64,10 @@ education:
         Thesis: Building technology case-system program generator for numerical control system
 experiences:
     - role: Senior Software Engineer | Tech Lead - freelance
-      time: 10.2021 - 03.2021
+      time: 10.2021 - 03.2022
       company: Shypple
       details: |
-        Analysing current software architecture, building C4 model diagrams, working with product department to align software architecture with current and future feature.
+        Analysing current software architecture, building C4 model diagrams, working with product department to align software architecture with current and future features.
         Helping teams with DevOps setup such as CI/CD, code coverage, static code analysis, implementing SonarCloud and Danger integrations.
         Building guidelines for refactoring using DDD and SOLID.
         Documenting developer guidelines to align all teams and their way of working.
@@ -267,4 +267,4 @@ skills:
         level: 78%
 
 footer: >
-    <i class="fas fa-heart"></i> Open for new opportunities from 01.10.2021
+    <i class="fas fa-heart"></i> Open for new opportunities from 01.03.2022
