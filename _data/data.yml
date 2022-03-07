@@ -64,6 +64,22 @@ education:
         Thesis: Building technology case-system program generator for numerical control system
 experiences:
     - role: Senior Software Engineer | Tech Lead - freelance
+      time: 10.2021 - 03.2021
+      company: Shypple
+      details: |
+        Analysing current software architecture, building C4 model diagrams, working with product department to align software architecture with current and future feature.
+        Helping teams with DevOps setup such as CI/CD, code coverage, static code analysis, implementing SonarCloud and Danger integrations.
+        Building guidelines for refactoring using DDD and SOLID.
+        Documenting developer guidelines to align all teams and their way of working.
+        Setting up e2e testing using Capybara (Ruby on Rails)
+        - Ruby / RoR
+        - PostgreSQL
+        - Capybara, RSpec
+        - SonarCloud / Danger / Rubocop
+        - CircleCI
+        - Google Cloud / GKE
+
+    - role: Senior Software Engineer | Tech Lead - freelance
       time: 01.2021 - 09.2021
       company: MYLAPS Sports Timing
       details: |
