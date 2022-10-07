@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Highly skilled, result-oriented and motivated IT professional with 13+ years of extensive experience in Software Development, Systems/ Business Processes Analysis and System Integration. Critical thinker with the strong analytical background, excellent communication, documentation and presentation skills. 
+      Highly skilled, result-oriented and motivated IT professional with 13+ years of extensive experience in Software Development, Systems/ Business Processes Analysis and System Integration. Critical thinker with the strong analytical background, excellent communication, documentation and presentation skills. 
 education:
     - degree: MSc in Applied Mathematics
       university: Odessa I.I.Mechnikov National University
@@ -63,6 +63,24 @@ education:
       details: |
         Thesis: Building technology case-system program generator for numerical control system
 experiences:
+    - role: Senior Software Engineer | Tech Lead - freelance
+      time: 10.2022 - ...
+      company: Wonderkind
+
+    - role: Senior Software Engineer | Tech Lead - freelance
+      time: 04.2022 - 10.2022
+      company: Firely
+      details: |
+        Architecturing distributed system for high throughput of FHIR data. Reached throughput to 1500 RPS. Setting up CI/CD pipelines and k8s cluster (AKS).
+        Creating load test suite for verification of performance requirements using locust.io
+        Introducing event sourcing with MongoDB change-streams
+        - .net 6
+        - MassTransit
+        - RabbitMq, Azure Service Bus
+        - MongoDB, change streams, event sourcsing
+        - k8s, helm, docker
+        - locust.io
+
     - role: Senior Software Engineer | Tech Lead - freelance
       time: 10.2021 - 03.2022
       company: Shypple
@@ -242,19 +260,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: .Net (Full framework, Core 2.x, 3.x) & C#
+      - name: .Net (6, Core 2.x, 3.x, Full framework) & C#
         level: 98%
 
-      - name: Docker & Kubernetes
+      - name: Docker & Kubernetes (AKS, GKS)
         level: 95%
       
       - name: MSSQL, MongoDB, CosmosDB, Redis
         level: 92%
 
-      - name: SonarQube, NDepend
+      - name: Messaging - RabbitMq, Azure Service Bus, MassTransit
         level: 91%
 
-      - name: Azure DevOps, Jenkins, TeamCity
+      - name: SonarQube, SOnarCloud, NDepend
+        level: 91%
+
+      - name: Azure DevOps, Jenkins, TeamCity, Circle CI
         level: 90%
         
       - name: Nunit, xUnit, etc.
@@ -267,4 +288,4 @@ skills:
         level: 78%
 
 footer: >
-    <i class="fas fa-heart"></i> Open for new opportunities from 01.03.2022
+    <i class="fas fa-heart"></i> Open for new opportunities from 01.04.2023
