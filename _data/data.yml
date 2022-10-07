@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sergiy Chernov
+    name: Serhii Chernov
     tagline: .Net Developer | Tech Lead | Architect
     avatar: 1600766722674.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -20,7 +20,7 @@ sidebar:
     telegram: farfush # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: farfush_
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
