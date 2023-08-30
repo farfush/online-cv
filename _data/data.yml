@@ -30,7 +30,7 @@ sidebar:
         level: Full professional proficiency
 
       - idiom: Dutch
-        level: Elementary proficiency
+        level: Intermidiate proficiency
 
       - idiom: German
         level: Elementary proficiency
@@ -66,6 +66,10 @@ experiences:
     - role: Senior Software Engineer | Tech Lead - freelance
       time: 10.2022 - ...
       company: Wonderkind
+      details: |
+          Designing and architecting backend application, coaching junior and medior developers, developing all parts of the application. 
+          Introducing Ci/CD pipeline. using Domain driven design, message broker, distributed transactions, ms sql database, unit testing. 
+          Application is live in production with all required functionality.
 
     - role: Senior Software Engineer | Tech Lead - freelance
       time: 04.2022 - 10.2022
