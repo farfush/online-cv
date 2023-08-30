@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Serhii Chernov
-    tagline: .Net Developer | Tech Lead | Architect
+    tagline: C# (.net) Developer | Tech Lead | Architect
     avatar: 1600766722674.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -70,7 +70,7 @@ experiences:
           Designing and architecting backend application, coaching junior and medior developers, developing all parts of the application. 
           Introducing Ci/CD pipeline. using Domain driven design, message broker, distributed transactions, ms sql database, unit testing. 
           Application is live in production with all required functionality.
-           - .net 6
+           - C# (.net 6)
            - MassTransit, SAGA
            - RabbitMq, Azure Service Bus
            - MS SQL Server
@@ -84,7 +84,7 @@ experiences:
         Architecturing distributed system for high throughput of FHIR data. Reached throughput to 1500 RPS. Setting up CI/CD pipelines and k8s cluster (AKS).
         Creating load test suite for verification of performance requirements using locust.io
         Introducing event sourcing with MongoDB change-streams
-        - .net 6
+        - C# (.net 6)
         - MassTransit
         - RabbitMq, Azure Service Bus
         - MongoDB, change streams, event sourcsing
@@ -115,10 +115,10 @@ experiences:
         Reducing tech debt, working with static code analysis tools (Sonar, nDepend, ReSharper).
         Introducing CI pipeline with unit, accpetance and smoke tests verification, static code analysis tool integration.
         Replacing custom ORM with EntityFramework, introducing logging, DI, DDD
-        - .Net 4.8, .Net 5
+        - C# (.net 4.8, .net 5)
         - WPF, DevExpress controls
         - gRPC for streaming api
-        - WebSocket, Rx.Net
+        - WebSocket, Rx.net
         - SpecFlow, NUnit
 
     - role: Founder | Owner
@@ -149,7 +149,7 @@ experiences:
         - <b>Microservices</b> as an architecture
         - <b>Docker</b> as application container
         - <b>Kubernetes</b> as archistration tool
-        - <b>.Net Core 2.x/3.x</b> as main development platform
+        - <b>C# (.net Core 2.x/3.x)</b> as main development platform
         - <b>oAuth2</b> as the security protocol
         - <b>OpenAPI</b> spec as API documentation
         - <b>Azure</b> as hosting provider (AKS, Apps, CosmosDB, IoT Hub, AppInsights, ExpressRoute...)
@@ -163,7 +163,7 @@ experiences:
         - Sabre
 
         Airline DCS - American Airline, Ryanair, WizzAir, EasyJet, AirFrance, KLM, Lufthansa, Swiss, Latam
-    - role: Senior .Net Developer
+    - role: Senior C# (.net) Developer
       time: 04.2017 - 09.2019
       company: SITA
       details: |
@@ -173,13 +173,13 @@ experiences:
         - Navitaire
         - Sita
         - Saber
-    - role: Senior .Net Developer
+    - role: Senior C# (.net) Developer
       time: 09.2014 - 042017
       company: eVision Industry Software
       details: |
         Full stack development of Shift management application for Oil & Gas industry.
 
-        - .Net 4.7 as the main development platform
+        - C# (.net 4.7) as the main development platform
         - ReactJs (with RxJs) as a client-side framework
         - Event Sourcing and CQRS as architecture principle
         - TDD, DDD, SOLID as development principles
@@ -187,7 +187,7 @@ experiences:
 
         Main customers - <b>Shell</b>, <b>British Petroleum</b>, <b>Exxon</b>, <b>Pfizer</b>, <b>Total</b>
 
-    - role: Senior .Net Developer
+    - role: Senior C# (.net) Developer
       time: 11.2010 - 09.2014
       company: M.C.Dean
       details: |
@@ -198,29 +198,29 @@ experiences:
         Web-based SPA for automatic credit card expenses processing. Including automated
         integration with world known systems such as <b>Visa</b>, <b>MasterCard</b>, and <b>American Express</b>.
 
-        Technologies used: .Net 4.5, Sencha (ExtJs), Entity Framework, AspNet Mvc, MS SQL, AS/400
+        Technologies used: C# (.net 4.5), Sencha (ExtJs), Entity Framework, AspNet Mvc, MS SQL, AS/400
 
 
         <b><u>Travel Application</u></b>
 
         Web-based single page application (SPA) and mobile application for integration with 3rd party travel agencies to automate the creation, approval, and booking of business trips.
 
-        Technologies used: .Net 4.5, Sencha (ExtJs), Entity Framework, PhoneGap, Cordova, WCF, AspNet Mvc, MS SQL
+        Technologies used: C# (.net 4.5), Sencha (ExtJs), Entity Framework, PhoneGap, Cordova, WCF, AspNet Mvc, MS SQL
 
 
         <b><u>Supplier Compliance Application</u></b>
 
         Desktop application to facilitate contracts department and make paperwork much easier. Migrated later to web-based SPA.
 
-        Technologies used: .Net 4.5, DevExpress, WCF, MS SQL
+        Technologies used: C# (.net 4.5), DevExpress, WCF, MS SQL
 
-    - role: .Net Developer
+    - role: C# (.net) Developer
       time: 09.2009 - 11.2010
       company: ABP
       details: |
         Full stack development of Content management system – web application which is used to build client sites on top of it.
 
-        Technologies used: .Net 3.5, XML, XSLT, jQuery, T-SQL
+        Technologies used: C# (.net 3.5), XML, XSLT, jQuery, T-SQL
 
     - role: Delphi | VBA Developer
       time: 10.2007 - 09.2009
@@ -270,7 +270,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: .Net (6, Core 2.x, 3.x, Full framework) & C#
+      - name: C# / .net (6, Core 2.x, 3.x, Full framework) & C#
         level: 98%
 
       - name: Docker & Kubernetes (AKS, GKS)
