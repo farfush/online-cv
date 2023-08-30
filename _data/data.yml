@@ -70,6 +70,12 @@ experiences:
           Designing and architecting backend application, coaching junior and medior developers, developing all parts of the application. 
           Introducing Ci/CD pipeline. using Domain driven design, message broker, distributed transactions, ms sql database, unit testing. 
           Application is live in production with all required functionality.
+           - .net 6
+           - MassTransit, SAGA
+           - RabbitMq, Azure Service Bus
+           - MS SQL Server
+           - Azure
+           - cypress
 
     - role: Senior Software Engineer | Tech Lead - freelance
       time: 04.2022 - 10.2022
