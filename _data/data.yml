@@ -46,11 +46,12 @@ sidebar:
       - item: Electric guitar
       - item: Badminton
       - item: Travelling
+      - item: Chess
 
 career-profile:
     title: Career Profile
     summary: |
-      Highly skilled, result-oriented and motivated IT professional with 13+ years of extensive experience in Software Development, Systems/ Business Processes Analysis and System Integration. Critical thinker with the strong analytical background, excellent communication, documentation and presentation skills. 
+      Highly skilled, result-oriented and motivated IT professional with 16+ years of extensive experience in Software Development, System Design & Architecture, Systems/ Business Processes Analysis, Infrastructure Design and System Integration. Critical thinker with the strong analytical background, excellent communication, documentation and presentation skills. 
 education:
     - degree: MSc in Applied Mathematics
       university: Odessa I.I.Mechnikov National University
@@ -64,18 +65,20 @@ education:
         Thesis: Building technology case-system program generator for numerical control system
 experiences:
     - role: Senior Software Engineer | Tech Lead - freelance
-      time: 10.2022 - ...
+      time: 10.2022 - 12.2023
       company: Wonderkind
       details: |
           Designing and architecting backend application, coaching junior and medior developers, developing all parts of the application. 
-          Introducing Ci/CD pipeline. using Domain driven design, message broker, distributed transactions, ms sql database, unit testing. 
+          Introducing CI/CD pipeline. Using Domain Driven Design, message broker, distributed transactions, MS SQL database, unit testing. 
           Application is live in production with all required functionality.
            - C# (.net 6)
            - MassTransit, SAGA
            - RabbitMq, Azure Service Bus
            - MS SQL Server
-           - Azure
-           - cypress
+           - Azure (Container App, AKS, Api Management, Blob, Azure Service Bus)
+           - Inrastructure as code in Terraform
+           - Cypress, Karate, Postman
+           - Continuous Integration and Deployment
 
     - role: Senior Software Engineer | Tech Lead - freelance
       time: 04.2022 - 10.2022
@@ -88,7 +91,7 @@ experiences:
         - MassTransit
         - RabbitMq, Azure Service Bus
         - MongoDB, change streams, event sourcsing
-        - k8s, helm, docker
+        - Kubernetes (AKS), Helm, docker
         - locust.io
 
     - role: Senior Software Engineer | Tech Lead - freelance
@@ -105,7 +108,7 @@ experiences:
         - Capybara, RSpec
         - SonarCloud / Danger / Rubocop
         - CircleCI
-        - Google Cloud / GKE
+        - Google Cloud / Google Kubernetes Engine
 
     - role: Senior Software Engineer | Tech Lead - freelance
       time: 01.2021 - 09.2021
