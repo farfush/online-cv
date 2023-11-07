@@ -273,10 +273,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# / .net (6, Core 2.x, 3.x, Full framework) & C#
+      - name: C# / .net (6, Core 2.x, 3.x, Full framework)
         level: 98%
 
-      - name: Docker & Kubernetes (AKS, GKS)
+      - name: Docker & Kubernetes (AKS, GKE)
         level: 95%
       
       - name: MSSQL, MongoDB, CosmosDB, Redis
@@ -285,13 +285,13 @@ skills:
       - name: Messaging - RabbitMq, Azure Service Bus, MassTransit
         level: 91%
 
-      - name: SonarQube, SOnarCloud, NDepend
+      - name: SonarQube, SonarCloud, NDepend
         level: 91%
 
-      - name: Azure DevOps, Jenkins, TeamCity, Circle CI
+      - name: Azure DevOps, Jenkins, TeamCity, Circle CI, Github Actions
         level: 90%
         
-      - name: Nunit, xUnit, etc.
+      - name: Nunit, xUnit, Karate, etc.
         level: 90%
 
       - name: Javascript (TypeScript, Angular, ReactJs, ExtJs), Cypress
@@ -301,4 +301,4 @@ skills:
         level: 78%
 
 footer: >
-    <i class="fas fa-heart"></i> Open for new opportunities from 01.04.2023
+    <i class="fas fa-heart"></i> Open for new opportunities from 01.01.2024
